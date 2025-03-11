@@ -1,5 +1,16 @@
 /* styles.css */
 
+:root {
+  --color-1: #0a0021;
+  --color-2: #726d61;
+  --color-3: #faeed4;
+  --color-4: #ffc634;
+  --color-5: #370401;
+  --color-6: #454f17;
+  --color-7: #e6e93c;
+}
+
+
 /* Optional: If you're using TT Interfaces, be sure to load it via @font-face or a CDN */
 @font-face {
   font-family: "TT Interfaces";
