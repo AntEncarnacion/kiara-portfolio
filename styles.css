@@ -39,9 +39,6 @@ body {
   background: url("assets/1.jpg") no-repeat center center;
   background-size: cover;
 
-  /* Add a black border to mimic the framed look */
-  border: 10px solid black;
-
   /* Position relative so we can place text absolutely inside */
   position: relative;
   background-attachment: fixed;
